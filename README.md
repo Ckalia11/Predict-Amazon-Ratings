@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains code and resources for a project I worked on to predict ratings customers would give to Amazon's electronic products based on the summaries and reviews that they left. In this project, I used natural language processing to extract meaningful data from customer reviews and supervised machine learning techniques to build models that learn from the resultant data to classify a product as receiving a 1, 2, 4, or 5 star rating.
+This repository contains code and resources for a project I worked on to predict ratings customers would give to Amazon's electronic products based on the summaries and reviews that they left. In this project, I used natural language processing to extract meaningful data from customer reviews and supervised machine learning techniques to build models that learn from over 6M customer reviews to classify a product as receiving a 1, 2, 4, or 5 star rating.
 
 The goal of this project is to develop a predictive model that can accurately identify ratings for products based on the summary and review left by customers. This repository includes data cleaning, exploratory data analysis, feature selection and engineering, model selection and hyperparameter tuning, and evaluation of the model's performance on a held-out test set.
 
