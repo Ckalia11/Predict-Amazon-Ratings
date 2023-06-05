@@ -12,7 +12,7 @@ To learn more about the problem description, data description, and steps, open t
 
 - Clone this repository
 - Install Python
-- Download the `5-core` dataset in the `Electronics` category in the `"Small" subsets for experimentation dataset` section  <a href = "https://nijianmo.github.io/amazon/index.html?fbclid=IwAR0_5K7tu7q-ROrBlvDceA1KFPrasHFZWx7X-IfeTgG2ZQ9WcA11pH8JEjo#subsets" target="_blank">here</a> and place it in the same directory as the `PredictRating.ipynb` file
-- run the command `pip install -r requirements.txt` to install any dependencies
-- open the notebook locally by running the command `jupyter notebook PredictRating.ipynb` and run all the cells
+- Download the `5-core` dataset in the `Electronics` category in the `"Small" subsets for experimentation dataset` section found  <a href = "https://nijianmo.github.io/amazon/index.html?fbclid=IwAR0_5K7tu7q-ROrBlvDceA1KFPrasHFZWx7X-IfeTgG2ZQ9WcA11pH8JEjo#subsets" target="_blank">here</a> and place it in the same directory as the `PredictRating.ipynb` file
+- Run the command `pip install -r requirements.txt` to install any dependencies
+- Open the notebook locally by running the command `jupyter notebook PredictRating.ipynb` and run all the cells
 
