@@ -1,0 +1,12 @@
+notebook
+contractions==0.1.73
+matplotlib==3.7.1
+nltk==3.8.1
+numpy==1.24.3
+pandas==2.0.2
+pyenchant==3.2.2
+scikit_learn==1.2.2
+scipy==1.10.1
+seaborn==0.12.2
+textblob==0.17.1
+wordcloud==1.9.2
